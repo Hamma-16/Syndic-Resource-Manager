@@ -1,0 +1,1 @@
+Developed a graphical user interface in Python for managing condominium resources. The interface allows the condominium president to select a block, enter an apartment number, and display payment history if payments are up to date, or show the amount due if payments are pending. Utilized Tkinter for an intuitive user experience.
